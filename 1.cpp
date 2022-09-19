@@ -117,27 +117,6 @@ int main() {
 		break;
 	default: printf("Ошибка");
 			}}
-
-	//char fam[20];
-	//printf("\nВведите фамилию студента: ");
-	//scanf("%s", fam);
-	//
-	//for (i = 1; i < 4; i++)
-	//{
-	//	if (strcmp (p[i].famil, fam) == 0)
-	//	{
-	//		printf("Фамилия: %s\n", p[i].famil);
-	//		printf("Имя: %s\n", p[i].name);
-	//		printf("Факультет: %s\n", p[i].facult);
-	//		printf("Номер зач.книжки: %d\n", p[i].Nomzach);
-	//
-	//		break;
-	//	}
-	//	else
-	//	{
-	//		printf("Информация не найдена\n");
-	//	}
-	//}
 	getchar();
 	getchar();
 }
